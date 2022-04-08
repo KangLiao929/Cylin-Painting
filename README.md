@@ -2,7 +2,7 @@
 ## Introduction
 This is the official implementation for [Cylin-Painting]().
 
-[Kang Liao](https://kangliao929.github.io/), [Xiangyu Xu](https://sites.google.com/view/xiangyuxu), [Chunyu Lin](http://faculty.bjtu.edu.cn/8549/), [Yunchao Wei](https://weiyc.github.io/), Zhijie Shen, [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm)
+[Kang Liao](https://kangliao929.github.io/), [Xiangyu Xu](https://sites.google.com/view/xiangyuxu), [Chunyu Lin](http://faculty.bjtu.edu.cn/8549/), [Wenqi Ren](https://sites.google.com/view/wenqiren/homepage), [Yunchao Wei](https://weiyc.github.io/), [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm)
 
 > ### Problem
 > Given a fixed field of view (FoV) image, Cylin-Painting aims to extrapolate a 360° texturally seamless and semantically consistent panormic image.
