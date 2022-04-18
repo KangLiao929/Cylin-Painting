@@ -1,4 +1,4 @@
-# Cylin-Painting: Seamless 360° Panoramic Image Outpainting with Cylinder-Style Convolutions
+# Cylin-Painting: Seamless 360° Panoramic Image Outpainting and Beyond with Cylinder-Style Convolutions
 ## Introduction
 This is the official implementation for [Cylin-Painting]().
 
