@@ -1,6 +1,6 @@
 # Cylin-Painting: Seamless 360° Panoramic Image Outpainting and Beyond with Cylinder-Style Convolutions
 ## Introduction
-This is the official implementation for [Cylin-Painting]().
+This is the official implementation for [Cylin-Painting](https://arxiv.org/abs/2204.08563).
 
 [Kang Liao](https://kangliao929.github.io/), [Xiangyu Xu](https://sites.google.com/view/xiangyuxu), [Chunyu Lin](http://faculty.bjtu.edu.cn/8549/), [Wenqi Ren](https://sites.google.com/view/wenqiren/homepage), [Yunchao Wei](https://weiyc.github.io/), [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm)
 
