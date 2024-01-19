@@ -29,6 +29,7 @@ We explored the panoramic image outpainting tasks on three panoramic image datas
 Download the pretrained model [here]() and put it into the ```.\checkpoint``` folder.
 
 ## Training
+Customize the paths of training datasets and saving checkpoints, GPU id, and run:
 ```
 sh scripts/train.sh
 ```
