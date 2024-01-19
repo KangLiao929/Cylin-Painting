@@ -12,7 +12,8 @@ This is the official implementation for [Cylin-Painting](https://arxiv.org/abs/2
 >  * Make an early attempt to systematically describe the strengths and limitations of positional encoding in CNNs. Furthermore, we tame the cylinder convolution with a novel learnable positional encoding, which essentially improves the generation results
 >  * Our method can serve as a plug-and-play module and can flexibly extend to other 360° panoramic vision tasks including low-level tasks and high-level tasks
 
-![](https://github.com/KangLiao929/Cylin-Painting/blob/main/cylin-painting.png)
+![](assets/cylin-painting.png)
+**<div align="center">We propose a new Cylin-Painting to compensate for the advantages of image inpainting and outpainting.</div>**
 
 ## Code and Dataset
 Coming soon.
