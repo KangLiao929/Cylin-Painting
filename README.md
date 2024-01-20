@@ -15,6 +15,13 @@ This is the official implementation for [Cylin-Painting](https://arxiv.org/abs/2
 ![](assets/cylin-painting.png)
 **<div align="center">We propose a new Cylin-Painting to effectively combine the advantages of image inpainting and image outpainting.</div>**
 
+## 📝 Changelog
+
+- [x] 20240101: Cylin-Painting is published at TIP.
+- [x] 20240118: The implementation guidance is released.
+- [ ] Release both training and inference code.
+- [ ] Release pre-trained weights on three panoramic datasets.
+
 ## Installation
 Using the virtual environment (conda) to run the code is recommended.
 ```
