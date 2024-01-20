@@ -19,7 +19,7 @@ This is the official implementation for [Cylin-Painting](https://arxiv.org/abs/2
 
 - [x] 20240101: Cylin-Painting is published at TIP.
 - [x] 20240118: The implementation guidance is released.
-- [ ] Release both training and inference code.
+- [ ] Release both training and inference codes.
 - [ ] Release pre-trained weights on three panoramic datasets.
 
 ## Installation
