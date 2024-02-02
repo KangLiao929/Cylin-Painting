@@ -1,0 +1,1 @@
+python test.py --dataset "/dataset/SUN360/test/" --gpu 1 --output "/Cylin-Painting/results/" --model "/generator.pth"
