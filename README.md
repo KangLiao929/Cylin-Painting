@@ -51,6 +51,7 @@ sh scripts/test.sh
 
 ## Beyond Outpainting
 While designed for panoramic image outpainting, our method can effectively extend to other panoramic vision tasks as a plug-and-play module, including high-level and low-level tasks.
+
 ![](assets/beyond_op.png)
 **<div align="center">Our method can improve the performance of current learning models regarding the seamless reconstruction or vision perception.</div>**
 
