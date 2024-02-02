@@ -19,8 +19,8 @@ This is the official implementation for [Cylin-Painting](https://arxiv.org/abs/2
 
 - [x] 20240101: Cylin-Painting is published at TIP.
 - [x] 20240118: The implementation guidance is released.
-- [ ] Release both training and inference codes.
-- [ ] Release pre-trained weights on three panoramic datasets.
+- [x] 20240202: Release both training and inference codes.
+- [ ] Release pre-trained weights on panoramic datasets.
 
 ## Installation
 Using the virtual environment (conda) to run the code is recommended.
@@ -49,6 +49,11 @@ sh scripts/test.sh
 ![](assets/seamless_results.png)
 **<div align="center">Our method can reach a seamless and semantically plausible transition of the generated content between two image boundaries.</div>**
 
+## Beyond Outpainting
+While designed for panoramic image outpainting, our method can effectively extend to other panoramic vision tasks as a plug-and-play module, including high-level and low-level tasks.
+![](assets/beyond_op.png)
+**<div align="center">Our method can improve the performance of current learning models regarding the seamless reconstruction or vision perception.</div>**
+
 
 ## Reference
 ```
@@ -57,4 +62,15 @@ sh scripts/test.sh
 [3] Chang, S.H., Chiu, C.Y., Chang, C.S., Chen, K.W., Yao, C.Y., Lee, R.R. and Chu, H.K., 2018. Generating 360 outdoor panorama dataset with reliable sun position estimation. In SIGGRAPH Asia 2018 Posters.
 ```
 
-
+## Citation
+If our solution is useful for your research, please consider citing:
+```
+@ARTICLE{cylin_painting,
+  author={Liao, Kang and Xu, Xiangyu and Lin, Chunyu and Ren, Wenqi and Wei, Yunchao and Zhao, Yao},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Cylin-Painting: Seamless 360° Panoramic Image Outpainting and Beyond}, 
+  year={2024},
+  volume={33},
+  pages={382-394}
+}
+```
