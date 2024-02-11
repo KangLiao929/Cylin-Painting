@@ -20,7 +20,7 @@ This is the official implementation for [Cylin-Painting](https://arxiv.org/abs/2
 - [x] 20240101: Cylin-Painting is published at TIP.
 - [x] 20240118: The implementation guidance is released.
 - [x] 20240202: Release both training and inference codes.
-- [ ] Release pre-trained weights on panoramic datasets.
+- [x] 20240202: Release pre-trained weights on panoramic datasets.
 
 ## Installation
 Using the virtual environment (conda) to run the code is recommended.
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 We explored the panoramic image outpainting tasks on three panoramic image datasets: SUN360 [1], Matterport3D [2], and 360SP [3], including the indoor and outdoor scenes. For each dataset, we consider the image outpainting case with the resolution of 256 × 256 → 512 × 256.
 
 ## Pretrained Model
-Download the pretrained model [here]() and put it into the ```.\checkpoint``` folder.
+Download the pretrained model [here](https://drive.google.com/drive/folders/1HUZMBvEDtywpzjM8qNNr-q-US1hghBzX?usp=sharing) and put it into the ```.\checkpoint``` folder.
 
 ## Training
 Customize the paths of training datasets and saving checkpoints, GPU id, and run:
