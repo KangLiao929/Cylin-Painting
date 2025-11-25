@@ -63,6 +63,9 @@ While designed for panoramic image outpainting, our method can effectively exten
 [3] Chang, S.H., Chiu, C.Y., Chang, C.S., Chen, K.W., Yao, C.Y., Lee, R.R. and Chu, H.K., 2018. Generating 360 outdoor panorama dataset with reliable sun position estimation. In SIGGRAPH Asia 2018 Posters.
 ```
 
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 ## Citation
 If our solution is useful for your research, please consider citing:
 ```
