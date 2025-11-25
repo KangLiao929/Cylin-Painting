@@ -64,7 +64,7 @@ While designed for panoramic image outpainting, our method can effectively exten
 ```
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Citation
 If our solution is useful for your research, please consider citing:
